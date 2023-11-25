@@ -1,0 +1,5 @@
+[swarm-master]
+20.25.106.246 ansible_ssh_user=azureadmin
+[swarm-nodes]
+172.203.151.101 ansible_ssh_user=azureadmin
+20.115.19.33  ansible_ssh_user=azureadmin
